@@ -1,9 +1,9 @@
-#summary One-sentence summary of this page.
+#summary Py-S60-TR Kaynaklar Sayfası
 #labels Featured,Phase-Implementation,Phase-Deploy
 
-= Introduction =
+= Bilgilendirme =
 
-Add your content here.
+Bu Sayfadaki Belirtilmeyen tüm makalaler tarafım(ız)ca yazılmıştır.Kopyalama Hakkı tamamen bana/bize aittir.
 
 
 = Details =
