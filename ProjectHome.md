@@ -1,0 +1,1 @@
+Python S60 üzerinde kullanılmaya başlandığından beri rağbet görüyor.Ama Hala tam olarak yayılmış değil.Bizde bunu istiyoruz.Yayılsın.Türkiyede bu konuda bilinçlensin.
